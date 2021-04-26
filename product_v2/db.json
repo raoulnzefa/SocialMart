@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Zandu Balm",
+      "image": "/src/assets/zandu-balm-0.jpg",
+      "price": 99
+    },
+    {
+      "id": 3,
+      "name": "Dolo - 650",
+      "image": "//placehold.it/200",
+      "price": 49
+    },
+    {
+      "id": 4,
+      "name": "Amrutanzan",
+      "image": "//placehold.it/200",
+      "price": 29
+    },
+    {
+      "id": 4,
+      "name": "Amrutanzan",
+      "image": "//placehold.it/200",
+      "price": 29
+    },
+    {
+      "id": 5,
+      "name": "Cetirizine",
+      "image": "//placehold.it/200",
+      "price": 99
+    },
+    {
+      "id": 6,
+      "name": "Azithromycin",
+      "image": "//placehold.it/200",
+      "price": 149
+    },
+    {
+      "id": 7,
+      "name": "Paracetamol",
+      "image": "//placehold.it/200",
+      "price": 49
+    },
+    {
+      "id": 8,
+      "name": "Disprin",
+      "image": "//placehold.it/200",
+      "price": 29
+    },
+    {
+      "id": 9,
+      "name": "Aspirin",
+      "image": "",
+      "price": 29
+    }
+  ]
+}
